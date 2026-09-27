@@ -4,6 +4,7 @@
 
 > 本文档面向**使用者与二次分发者**：说明这是什么、怎么装起来、怎么生图、出问题怎么查。
 > COMFYUI建议初学者使用秋葉大佬制作的akiii绘世整合包 秋葉佬bilibili账号主页https://space.bilibili.com/12566101?spm_id_from=333.337.search-card.all.click，有许多冒充秋葉佬的不良贩子请注意，秋葉佬还没有开过任何需要付钱的课程！！！
+> 该软体由https://github.com/Grey1112/Ultra-Low-Barrier-ComfyUI-Workflow-Integration-App改编而来，后续版本也将持续更新，功能略有不同，请使用者酌情选择。
 >
 > 该readme基本为全ai生成，因此出现问题请见谅
 > 有很多废话，大概从第二个大项开始出现正文
